@@ -11,7 +11,7 @@
 		<!-- 忽略掉web.xml文件 ，因为我们使用servlet3.0开发web项目 -->
 		<failOnMissingWebXml>false</failOnMissingWebXml>
 		<spring.version>5.1.7.RELEASE</spring.version>
-		 <mybatis.version>3.4.6</mybatis.version>
+		 <mybatis.version>3.5.6</mybatis.version>
 	</properties>
 	<!-- 3. 配置项目所需要的第三方jar 包 -->
 	<dependencies>
